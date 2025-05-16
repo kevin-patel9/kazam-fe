@@ -4,5 +4,5 @@ npm install
 # Step 2 
 add .env file were add all credentials add in file .env.example
 
-
-
+# Step 3
+npm start
